@@ -10,7 +10,7 @@ setup(
         version ='1.0.0',
         author ='Alahassa, Nonvikan Karl-Augustt and Alejandro, Murua',
         author_email ='alahassa@dms.umontreal.ca',
-        url ='https://github.com/Vibhu-Agarwal/vibhu4gfg',
+        url ='https://github.com/kgalahassa/pottscompleteshrinkage',
         description ='Potts Clustering with Complete Shrinkage',
         long_description = long_description,
         long_description_content_type ="text/markdown",
