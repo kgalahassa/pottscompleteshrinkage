@@ -1,4 +1,4 @@
-# PottsCompleteShrinkage
+# Potts Complete Shrinkage
 Potts Clustering with Complete Shrinkage
 
 ## Installation
