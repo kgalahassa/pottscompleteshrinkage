@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: pottscompleteshrinkage
+Version: 1.0.0
+Summary: Potts Clustering with Complete Shrinkage
+Home-page: https://github.com/kgalahassa/pottscompleteshrinkage
+Author: Alahassa, Nonvikan Karl-Augustt and Alejandro, Murua
+Author-email: alahassa@dms.umontreal.ca
+License: GNU Public Licence v3
+Description: Package for Potts Clustering with Complete Shrinkage
+Keywords: Potts models,Clustering,Complete Shrinkage
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: GNU Public Licence v3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
