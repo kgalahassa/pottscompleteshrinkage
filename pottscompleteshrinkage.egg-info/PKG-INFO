@@ -5,11 +5,11 @@ Summary: Potts Clustering with Complete Shrinkage
 Home-page: https://github.com/kgalahassa/pottscompleteshrinkage
 Author: Alahassa, Nonvikan Karl-Augustt and Alejandro, Murua
 Author-email: alahassa@dms.umontreal.ca
-License: GNU Public Licence v3
+License: GNU General Public License v3.0
 Description: Package for Potts Clustering with Complete Shrinkage
 Keywords: Potts models,Clustering,Complete Shrinkage
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
-Classifier: License :: GNU Public Licence v3
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)
 Classifier: Operating System :: OS Independent
 Description-Content-Type: text/markdown

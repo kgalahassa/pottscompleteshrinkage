@@ -23,7 +23,7 @@ setup(
         },
         classifiers =(
             "Programming Language :: Python :: 3",
-            "License :: GNU General Public License v3.0",
+            "License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)",
             "Operating System :: OS Independent",
         ),
         keywords ='Potts models, Clustering, Complete Shrinkage',
