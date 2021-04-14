@@ -12,3 +12,6 @@ Install using pip
 
 ## Usage
 Run on command line: pottscompleteshrinkage -h
+
+## Pypi Project Page
+ https://pypi.org/project/pottscompleteshrinkage/1.0.0/
