@@ -14,7 +14,7 @@ setup(
         description ='Potts Clustering with Complete Shrinkage',
         long_description = long_description,
         long_description_content_type ="text/markdown",
-        license ='GNU Public Licence v3',
+        license ='GNU General Public License v3.0',
         packages = find_packages(),
         entry_points ={
             'console_scripts': [
@@ -23,7 +23,7 @@ setup(
         },
         classifiers =(
             "Programming Language :: Python :: 3",
-            "License :: GNU Public Licence v3",
+            "License :: GNU General Public License v3.0",
             "Operating System :: OS Independent",
         ),
         keywords ='Potts models, Clustering, Complete Shrinkage',
