@@ -15,6 +15,10 @@ Import the Potts Complete Shrinkage module
 
 ```import pottsshrinkage.completeshrinkage as PCS```
 
+Choose the number of colors
+
+```q = 20```
+
 Compute Initial Potts Clusters as a first Random Partition (with Potts Model)
 
 ```InitialPottsClusters = PCS.InitialPottsConfiguration(Train_PottsData_demo, q, Kernel='Mercel')```
@@ -46,3 +50,7 @@ with pickle package.
 
 ## Pypi Project Page
  https://pypi.org/project/pottscompleteshrinkage/1.0.0/
+ 
+ 
+## Execution Code Pipeline in Jupyter Notebook 
+ https://github.com/kgalahassa/pottscompleteshrinkage-notebook 
