@@ -21,7 +21,7 @@ Choose the number of colors
 
 Compute Initial Potts Clusters as a first Random Partition (with Potts Model)
 
-```InitialPottsClusters = PCS.InitialPottsConfiguration(Train_PottsData_demo, q, Kernel='Mercel')```
+```InitialPottsClusters = PCS.InitialPottsConfiguration(Train_PottsData_demo, q, Kernel='Mercer')```
 
 Choose your temperature (T) level
 
@@ -46,7 +46,7 @@ Set the Minimum Size desired for each partition generated
 Run your Potts Complete Shrinkage Model to simulate the Randomly Shrunk Potts Partitions. Partitions_Sets is a dictionary that can be saved 
 with pickle package.
 
-```Partitions_Sets,Spin_Configuration_Sets = PCS.Potts_Random_Partition (Train_PottsData_demo, T, sigma, Number_of_Random_Partitions, MinClusterSize, Initial_Partition,  Kernel='Mercel')```
+```Partitions_Sets,Spin_Configuration_Sets = PCS.Potts_Random_Partition (Train_PottsData_demo, T, sigma, Number_of_Random_Partitions, MinClusterSize, Initial_Partition,  Kernel='Mercer')```
 
 ## Pypi Project Page
  https://pypi.org/project/pottscompleteshrinkage/1.0.0/
